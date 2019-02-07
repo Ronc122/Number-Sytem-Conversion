@@ -1,0 +1,4 @@
+C:\Users\RonCajan\Documents\Visual Studio 2010\Projects\MT_Cajan\MT_01_Cajan\MT_01_Cajan\bin\Debug\MT_01_Cajan.exe
+C:\Users\RonCajan\Documents\Visual Studio 2010\Projects\MT_Cajan\MT_01_Cajan\MT_01_Cajan\bin\Debug\MT_01_Cajan.pdb
+C:\Users\RonCajan\Documents\Visual Studio 2010\Projects\MT_Cajan\MT_01_Cajan\MT_01_Cajan\obj\x86\Debug\MT_01_Cajan.exe
+C:\Users\RonCajan\Documents\Visual Studio 2010\Projects\MT_Cajan\MT_01_Cajan\MT_01_Cajan\obj\x86\Debug\MT_01_Cajan.pdb
